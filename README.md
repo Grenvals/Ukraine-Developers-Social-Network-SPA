@@ -2,10 +2,12 @@
 
    The social network and Google news portal built on React/Redux architecture.
 
-## [Review on Youtube](https://www.youtube.com/watch?v=wipq1YQxvFU)
 [![Review](https://user-images.githubusercontent.com/40334272/85372438-8312cf00-b53a-11ea-885f-b994aba5a635.jpg)](https://www.youtube.com/watch?v=wipq1YQxvFU)
+[![Review](https://github.com/user-attachments/assets/701d2bbb-7402-406a-be98-9c3c97afde98)](https://www.youtube.com/watch?v=wipq1YQxvFU)
 
    When I was a child, I dreamed of creating my own social network. This project is a step toward that childhood goal) I would be grateful for any feedback or suggestions to improve the code.
+
+[![Review](https://github.com/user-attachments/assets/08222949-cb5a-40ac-adf8-66feb463b641)](https://www.youtube.com/watch?v=wipq1YQxvFU)
 
 ## 📂 Folder structure
 
